@@ -1,0 +1,14 @@
+{
+    "name": "ngant/admin_package",
+    "description": "manager function role",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nguyen Nga",
+            "email": "ngant1096@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
